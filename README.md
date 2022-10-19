@@ -13,6 +13,7 @@ campingStuff EP9
 
 
 need to learn Python RIGHT NOW - intro // EP 1-9 - networkChuck 
+
 https://www.youtube.com/playlist?list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp
 
 <img width="562" alt="image" src="https://user-images.githubusercontent.com/103030864/196738475-2bfed274-b954-4eab-955e-9145d31a00d2.png">
